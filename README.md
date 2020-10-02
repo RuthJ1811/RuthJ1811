@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ruth, currently working as an Associate Software Engineer at Yellow Messenger
+I'm Ruth 🦄, currently working as an Associate Software Engineer at Yellow Messenger
 
 <!--
 **RuthJ1811/RuthJ1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
